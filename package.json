@@ -19,6 +19,7 @@
     "ActionSheet.ios.js",
     "ActionSheetProvider.js",
     "connectActionSheet.js",
+    "connectDeclarativeActionSheet.js",
     "index.js",
     "README.md"
   ],
